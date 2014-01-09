@@ -11,4 +11,6 @@ The inital system setup for the hello worlds repos
 
 ### My Dotfiles 
 
+### Configuring Git
+> git config --global user.email you@example.com
 
