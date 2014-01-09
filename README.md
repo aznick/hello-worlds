@@ -8,15 +8,15 @@ The inital system setup for the hello worlds repos
 ### Homebrew
 
 ### ZSH
-> brew install zsh
+     brew install zsh
 
 Hrmmm:
-> curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+     curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 
 
 ### Configuring Git
-> brew install git
-> git config --global user.email you@example.com
+     brew install git
+     git config --global user.email you@example.com
 
 Do you have two-factor authrntication on?
 1. Create a new access token (https://github.com/settings/applications)
@@ -25,10 +25,10 @@ Do you have two-factor authrntication on?
 
 ### My Dotfiles 
 Clone dotfiles
-> git clone xxx
-> cd vim/vim/bundle
-> git clone https://github.com/scrooloose/nerdtree.git
-> ln -s ~/projects/dotfiles/vim/vimrc .vimrc
-> ln -s ~/projects/dotfiles/vim/vim .vim
+     git clone xxx
+     cd vim/vim/bundle
+     git clone https://github.com/scrooloose/nerdtree.git
+     ln -s ~/projects/dotfiles/vim/vimrc .vimrc
+     ln -s ~/projects/dotfiles/vim/vim .vim
 
 (or whereever your dotfiles are)
