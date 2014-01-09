@@ -4,8 +4,11 @@ hello-worlds
 The inital system setup for the hello worlds repos 
 
 ### XCode + CLI
+Install XCode; Command line tools
 
 ### Homebrew
+     ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+
 
 ### ZSH
      brew install zsh
