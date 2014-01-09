@@ -1,4 +1,14 @@
 hello-worlds
 ============
 
-The inital system setup for the hello worlds projects
+The inital system setup for the hello worlds repos 
+
+### XCode + CLI
+
+### Homebrew
+
+### ZSH
+
+### My Dotfiles 
+
+
