@@ -19,3 +19,6 @@ Hrmmm:
 > brew install git
 > git config --global user.email you@example.com
 
+Do you have two-factor authrntication on?
+1. Create a new access token (https://github.com/settings/applications)
+2. Use token instead of password.
