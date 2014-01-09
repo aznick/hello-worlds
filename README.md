@@ -13,7 +13,6 @@ The inital system setup for the hello worlds repos
 Hrmmm:
 > curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 
-### My Dotfiles 
 
 ### Configuring Git
 > brew install git
@@ -22,3 +21,14 @@ Hrmmm:
 Do you have two-factor authrntication on?
 1. Create a new access token (https://github.com/settings/applications)
 2. Use token instead of password.
+
+
+### My Dotfiles 
+Clone dotfiles
+> git clone xxx
+> cd vim/vim/bundle
+> git clone https://github.com/scrooloose/nerdtree.git
+> ln -s ~/projects/dotfiles/vim/vimrc .vimrc
+> ln -s ~/projects/dotfiles/vim/vim .vim
+
+(or whereever your dotfiles are)
