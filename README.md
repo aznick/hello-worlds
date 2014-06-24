@@ -17,7 +17,7 @@ Install XCode; Command line tools
 Hrmmm:
 
      curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
-
+- Skip this, it's easy enough to follow the directions in their GH readme.md
 
 ### Configuring Git
      brew install git
@@ -40,3 +40,7 @@ Clone dotfiles
      ln -s ~/projects/dotfiles/vim/vim .vim
 
 (or whereever your dotfiles are)
+
+Don't forget to add ~/vim_swap! 
+     mkdir ~/vim_swap
+     
