@@ -42,5 +42,6 @@ Clone dotfiles
 (or whereever your dotfiles are)
 
 Don't forget to add ~/vim_swap! 
+
      mkdir ~/vim_swap
      
