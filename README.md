@@ -36,8 +36,8 @@ Clone dotfiles
      cd vim/vim/bundle
      git clone https://github.com/scrooloose/nerdtree.git
 
-     ln -s ~/projects/dotfiles/vim/vimrc .vimrc
-     ln -s ~/projects/dotfiles/vim/vim .vim
+     ln -s ~/projects/dotfiles/vim/vimrc ~/.vimrc
+     ln -s ~/projects/dotfiles/vim/vim ~/.vim
 
 (or whereever your dotfiles are)
 
