@@ -3,6 +3,9 @@ hello-worlds
 
 The inital system setup for the hello worlds repos 
 
+### System Updates
+(via App Store)
+
 ### XCode + CLI
 Install XCode; Command line tools
      
