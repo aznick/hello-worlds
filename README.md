@@ -8,17 +8,17 @@ The inital system setup for the hello worlds repos
 
 ### XCode + CLI
 Install XCode; Command line tools
-     
-     xcode-select --install
+     `xcode-select --install`
 
 ### Homebrew
-     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+     `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
      
 
 
-### Configuring Git
+### Update / Configure Git
+     ```
      brew install git
-
+     ```
 
 
 ### My Dotfiles 
