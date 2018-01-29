@@ -16,9 +16,8 @@ Install XCode; Command line tools
 
 
 ### Update / Configure Git
-     ```
-     brew install git
-     ```
+     `brew install git`
+[Generate / add new SSH Key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 
 ### My Dotfiles 
