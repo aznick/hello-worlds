@@ -36,3 +36,6 @@ Don't forget to add ~/vim_swap!
 
      mkdir ~/vim_swap
      
+Gcloud Command line tools
+     
+     curl https://sdk.cloud.google.com | bash
